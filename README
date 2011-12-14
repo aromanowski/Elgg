@@ -1,0 +1,12 @@
+Bienvenidos al Github Elgg-UNQ
+
+En este sitio Uds. pueden encontrar el repositorio del sitio Elgg
+configurado de acuerdo a lo expuesto en LabSOR - 2do Cuat 2011
+
+Para poder bajar el sitio deberan crearse una cuenta en GitHub
+y seguir las indicaciones
+
+El contenido del dump inicial de la base de datos se encuentra en 
+el archivo elgg_DB.tar.gz 
+
+El sitio esta en la carpeta site y debe ser copiado a /var/www
